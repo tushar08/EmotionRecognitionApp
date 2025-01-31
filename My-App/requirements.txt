@@ -1,0 +1,15 @@
+fastapi
+uvicorn
+torch
+transformers
+opencv-python
+face-recognition
+pandas
+streamlit
+sounddevice
+librosa
+opencv-python-headless
+numpy
+pydantic
+opencv-python-headless
+pytest
